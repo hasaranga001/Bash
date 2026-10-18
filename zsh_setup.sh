@@ -178,6 +178,7 @@ alias k='kubectl'
 alias tf='terraform'
 alias tfp='terraform plan'
 alias tfa='terraform apply'
+alias s='ssh'
 
 # History: large, shared, de-duplicated (feeds the autosuggestions)
 HISTFILE=~/.zsh_history
